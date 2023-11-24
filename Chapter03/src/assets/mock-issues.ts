@@ -1,6 +1,6 @@
 import { Issue } from 'src/app/issue';
 
-export const issues: Issue[] = [
+export const mockIssues: Issue[] = [
   {
     issueNo: 1,
     title:  'Add email validation in registration form',
